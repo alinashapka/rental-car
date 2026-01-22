@@ -89,4 +89,4 @@ Before you begin, ensure you have the following installed on your system:
 
 - GitHub: [@alinashapka](https://github.com/alinashapka)
 - LinkedIn: [Alina Shapka](https://www.linkedin.com/in/alina-shapka/)
-- Email: alinkash2811@gmail.com
+- Email: alina.a.shapka@gmail.com
